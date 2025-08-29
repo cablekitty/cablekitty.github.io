@@ -11,5 +11,5 @@ header h1 {
   display: block;
   margin: 0 auto; /* centers the image */
   width: 200px;
-  color: #ff66aa;
+  fill: #ff66aa;
 }
