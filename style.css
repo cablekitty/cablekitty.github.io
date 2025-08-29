@@ -11,4 +11,5 @@ header h1 {
   display: block;
   margin: 0 auto; /* centers the image */
   width: 200px; 
+  filter: hue-rotate(180deg) brightness(1.2) saturate(2);
 }
